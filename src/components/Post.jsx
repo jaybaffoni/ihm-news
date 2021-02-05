@@ -4,12 +4,12 @@ const styles = {
     container: {
         display: 'grid',
         gridTemplateColumns: '100px 1fr',
-        margin: 24,
+        margin: '24px 0px',
         padding: 16,
         alignItems: 'center',
         backgroundColor: 'white',
         border: '1px solid #d8d8d8',
-        boxShadow: '0px 12px 18px -6px rgb(0 0 0 / 30%)'
+        boxShadow: '0px 12px 12px -6px rgb(0 0 0 / 30%)'
     },
     image: {
         width: 100,
