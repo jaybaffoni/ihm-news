@@ -1,11 +1,6 @@
 .main {
   min-height: 100vh;
-  background-color: var(--primary-color);
-}
-
-.page {
-  background-color: var(--secondary-color);
-  overflow: auto;
+  /* background-color: var(--primary-color); */
 }
 
 .app-button {
